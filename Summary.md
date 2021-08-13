@@ -4,7 +4,7 @@
 
 * This is contract name is Associate Profit Splitter.. The purpose of this is to accept ether then split the ether three ways for three different employees. This will allow the Human resource department to efficently pay there staff in quick manner. 
 
-![Solidity1](Images/Solidity_1.png)
+![Solidity1](C:\Users\Justi\Pictures\Solidity_Images\Solidity_1.PNG)
 
 
 ## Level two
