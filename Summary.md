@@ -9,7 +9,7 @@
 
 * This contract name is Tiered Profit Spliiter, this allocates different percentages of incoming ether to employees at different tiers. In this contract employee one recieved 60%, employee recieved 25% and employee three recieved 15%. 
 
-![Solidity1](Images/Solidity_2.PNG)
+![Solidity1](Images/Solidity_3.PNG)
 
 
 ## Level three 
@@ -17,4 +17,4 @@
 * This contract is a Distributed Equity Plan which is an example of the companoes stock plan. This contract manages 1000 shares and distributes 250 shares over 4 years to each individual employee.
 
 
-![Solidity1](Images/Solidity_3.PNG)
+![Solidity1](Images/Solidity_2.PNG)
