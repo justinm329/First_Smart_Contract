@@ -9,12 +9,11 @@ some company finances to make everyone's life easier, increase transparency, and
 This will allow the Human Resource department to pay employees quickly and efficiently.
 
 ### Level Two
-* TieredProfitSplitter - that will distribute different percentage of incomeing Ether to employees at different tieers/levels. For Example the CEO gets paid 60%, CTO 25% 
+* TieredProfitSplitter - This contract will distribute different percentage of incomeing Ether to employees at different tieers/levels. For Example the CEO gets paid 60%, CTO 25% 
 and Bob get 15%.
 
 ### Level Three 
-* DeferredEquityPlan - that models traditional company stock plans. This contract will automatically manage 1000 shares with an annual distribution of 250 over 4 years
-for s single employee.
+* DeferredEquityPlan - This contract models traditional company deferred equity plan. This contract will automatically manage 1000 shares with an annual distribution of 250 over 4 years for a single employee. If an employee only stays with the company for 2 years they will earn 500 shares, and the other 500 will go back to the company. If they leave after 5 years they will have the full 1000. 
 
 
 ## Technology Used
