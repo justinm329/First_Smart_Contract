@@ -21,5 +21,7 @@ for s single employee.
 - [Solidity](https://docs.soliditylang.org/en/v0.8.9/)
 - [Remix](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js)
 - [MetaMask](https://metamask.io/)
+
 You could also use Ganache instead of MetaMask
+
 - [Ganache](https://www.trufflesuite.com/ganache)
