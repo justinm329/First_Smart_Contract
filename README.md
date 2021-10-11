@@ -15,3 +15,9 @@ and Bob get 15%.
 ### Level Three 
 * DeferredEquityPlan - that models traditional company stock plans. This contract will automatically manage 1000 shares with an annual distribution of 250 over 4 years
 for s single employee.
+
+
+## Technology Used
+- [Solidity](https://docs.soliditylang.org/en/v0.8.9/)
+- [Remix](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js)
+- 
