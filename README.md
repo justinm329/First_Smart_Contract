@@ -1,4 +1,4 @@
-# First_Smart_Contract
+# ProfitSplitter_Contract
 
 * We are a startup company and we have created our own Ethereum-compatible blockchain to help connect financial instituions. The team wants to build smart contracts to automate
 some company finances to make everyone's life easier, increase transparency, and to make accounting and auditing practically automatic. 
